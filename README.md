@@ -15,8 +15,8 @@ Senior Technical Account Manager based in Brazil. I work with SaaS, API architec
 ## Products (private repositories)
 
 - **[DescontosMil](https://descontosmil.com.br)**: deals aggregator that collects marketplace offers, applies rules and publishes to Telegram, WhatsApp and a public storefront.
-- **Veylo**: event photo and video sharing with moderation and a realtime live wall.
-- **simplebot.io**: multi-tenant platform for conversational AI bots, with a visual flow builder, omnichannel inbox and human handover.
+- **[Veylo](https://veylo.live)**: event photo and video sharing with moderation and a realtime live wall.
+- **[simplebot.io](https://simplebot.guilhermeh.me/)**: multi-tenant platform for conversational AI bots, with a visual flow builder, omnichannel inbox and human handover.
 
 ## Stack
 
